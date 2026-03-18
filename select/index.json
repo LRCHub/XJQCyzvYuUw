@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Tale",
+  "base_artist": "Tomppabeats",
+  "createdAt": "2026-03-18T06:55:26.391780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Living A Boy's Adventure Tale",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/01_Living_A_Boy's_Adventure_Tale_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "05 - Living A Boy's Adventure Tale",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/02_05_-_Living_A_Boy's_Adventure_Tale_A.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tale of the Tongues",
+      "artist": "Malukah",
+      "has_synced": false,
+      "path": "select/03_Tale_of_the_Tongues_Malukah.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No New Tale to Tell",
+      "artist": "Love and Rockets",
+      "has_synced": true,
+      "path": "select/04_No_New_Tale_to_Tell_Love_and_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Tale That Never Should Be Told",
+      "artist": "Civil War",
+      "has_synced": true,
+      "path": "select/05_A_Tale_That_Never_Should_Be_Told_Civil_War.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Tale That Wasn't Right",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/06_A_Tale_That_Wasn't_Right_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Tale That Wasn't Right",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/07_A_Tale_That_Wasn't_Right_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Tale That Wasn't Right",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/08_A_Tale_That_Wasn't_Right_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Tale That Wasn't Right",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/09_A_Tale_That_Wasn't_Right_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Tale of Magic",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/10_A_Tale_of_Magic_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Winter's Tale",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/11_A_Winter's_Tale_Queen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lecithin's Tale of a DNA Experiment That Went Horribly Awry",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/12_Lecithin's_Tale_of_a_DNA_Experiment_That_Went_Horribly_Awry_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Fairy Tale",
+      "artist": "Second Hand",
+      "has_synced": false,
+      "path": "select/13_A_Fairy_Tale_Second_Hand.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Winter's Tale",
+      "artist": "Jade Warrior",
+      "has_synced": true,
+      "path": "select/14_A_Winter's_Tale_Jade_Warrior.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Tale By Quincy",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/15_A_Tale_By_Quincy_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Tale By Quincy",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/16_A_Tale_By_Quincy_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tell Tale Signs",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/17_Tell_Tale_Signs_Bananarama.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tale",
+      "artist": "tomppabeats",
+      "has_synced": false,
+      "path": "select/pl_01_Tale_tomppabeats.txt"
+    }
+  ]
+}
